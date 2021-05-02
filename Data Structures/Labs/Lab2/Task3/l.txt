@@ -1,0 +1,5 @@
+914
+842
+12.95
+Blue widget used for powering devices.
+false
